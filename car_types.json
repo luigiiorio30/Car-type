@@ -1,0 +1,31 @@
+[
+    {
+        "car_type": "Berlin"
+    },{
+        "car_type": "SUV"
+    },{
+        "car_type": "Hatchback"
+    },{
+        "car_type": "Utilitarians"
+    },{
+        "car_type": "Crossover"
+    },{
+        "car_type": "Convertible"
+    },{
+        "car_type": "Sports Car"
+    },{
+        "car_type": "Minivan"
+    },{
+        "car_type": "Station Wagon"
+    },{
+        "car_type": "Pickup Truck"
+    },{
+        "car_type": "Truck"
+    },{
+        "car_type": "Roulotte"
+    },{
+        "car_type": "Camper"
+    },{
+        "car_type": "Superminis"
+    }
+]
